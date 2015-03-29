@@ -15,7 +15,7 @@ Edmon R. Zaldivar - Programmer/Analyst
 
 <br/>
 
-<b>Technologies</b>
+<h1>Technologies</h1>
 <br>
 <h2>Front End</h2>
 <br/>
